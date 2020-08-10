@@ -1,0 +1,22 @@
+{
+  "name": "node-done-1",
+  "version": "0.0.2",
+  "bin": {
+    "D": "./cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
