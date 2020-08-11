@@ -7,6 +7,10 @@
 
 ## 使用
 
+执行任务`D`
+
 添加任务 `D add <task>`
 
-清空任务 `D clear <task>`
+清空任务 `D clear`
+
+
